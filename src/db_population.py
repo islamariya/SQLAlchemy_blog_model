@@ -1,6 +1,3 @@
-from sqlalchemy.exc import OperationalError, InvalidRequestError
-from sqlite3 import InterfaceError
-
 import DatabaseModels
 from db_operations import create_db_connection, db_commit
 import data
