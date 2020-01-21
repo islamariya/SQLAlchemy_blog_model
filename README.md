@@ -10,3 +10,5 @@ Test data for database population is provided in data.py
 To populate database with tast data please launch db_population.py 
 
 To execute search query plaese launch search_query.py
+
+![Screenshot](img/result.PNG)
